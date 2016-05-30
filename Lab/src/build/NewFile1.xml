@@ -3,6 +3,7 @@
 <target name="delete">
 
 <delete dir="bin"> 
+<echo>welcome</echo>
 </delete>
 
 </target>
