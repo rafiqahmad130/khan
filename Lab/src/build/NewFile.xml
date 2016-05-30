@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="Lab" default="info">
+<target name="info">
+<echo>welcome</echo>
+
+
+
+
+
+
+
+
+
+</target>
+</project>
